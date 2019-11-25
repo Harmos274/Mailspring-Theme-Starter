@@ -1,9 +1,9 @@
-# Mailspring Theme Starter
+# ElementaryOS Dark Theme
 
-The Mailspring Theme Starter is a basic starting point for creating a theme for
-the [Mailspring](http://www.getmailspring.com/) email client.
+The ElementaryOS Dark Theme is a theme for the [Mailspring](http://www.getmailspring.com/) email client.
+Based upon the ElementaryOS palette.
 
-<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
+<img src="https://github.com/Harmos274/Mailspring-Theme-Starter/blob/master/screenshot/custom-theme.png" />
 
 ## Getting Started
 
